@@ -1,0 +1,15 @@
+body{
+    background: linear-gradient(darkgrey, rgb(53,53,53));
+    background-size: cover;
+    height: 100vh;
+    margin: 0px;
+ display: flex;
+}   
+
+
+.card{
+    background: linear-gradient(to right, grey, black);
+    width: 350px;
+    height: 350px;
+    border-radius: 20px;
+}
