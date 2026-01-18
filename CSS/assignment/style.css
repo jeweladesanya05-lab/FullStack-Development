@@ -1,0 +1,37 @@
+.card{
+    background: black ;
+    width: 300px;
+    height: 350px;
+    padding: 20px;
+    border-style:solid ;
+    border-radius: 3%;
+    border-width: 7px;
+}
+
+body{
+    background: rgb(48, 44, 44);
+}
+
+.blu{
+    color: #54a3d2;
+}
+
+h1{
+    font-family: sans-serif;
+    text-align: left;
+    padding-top: 150px;
+    color: white;
+    overflow-wrap: break-all;
+}
+
+.white{
+    color: white;
+}
+
+.wrap{
+    border-radius: 4%;
+    max-width: fit-content;
+    max-height: fit-content;
+    background: linear-gradient(to right, rgb(255, 72, 0), #54a3d2);
+    padding: 5px;
+}
