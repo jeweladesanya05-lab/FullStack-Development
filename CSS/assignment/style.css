@@ -32,6 +32,6 @@ h1{
     border-radius: 4%;
     max-width: fit-content;
     max-height: fit-content;
-    background: linear-gradient(to right, rgb(255, 72, 0), #54a3d2);
+    background: linear-gradient(to bottom right, rgb(255, 132, 0),red, #21d7bc);
     padding: 5px;
 }
